@@ -1,0 +1,18 @@
+.footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+    background-color: rgb(57, 72, 103);
+    color: white;
+}
+
+h5 {
+    margin-right: 7px;
+}
+
+
+.footerDes {
+    cursor: pointer;
+}

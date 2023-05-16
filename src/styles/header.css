@@ -1,0 +1,10 @@
+.header {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+    text-justify: auto;
+    height: 50px;
+    background-color: rgb(33, 42, 62);
+    -webkit-text-fill-color: white;
+}
